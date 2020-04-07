@@ -7,24 +7,24 @@
   </note>
   <outline>
     <contour>
-      <point x="200" y="0" type="line"/>
-      <point x="200" y="40" type="line"/>
-      <point x="120" y="40" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="40" type="line"/>
+      <point x="160" y="40" type="line"/>
+      <point x="160" y="240" type="line"/>
+      <point x="240" y="240" type="line"/>
+      <point x="240" y="280" type="line"/>
+      <point x="40" y="280" type="line"/>
+      <point x="40" y="240" type="line"/>
       <point x="120" y="240" type="line"/>
-      <point x="200" y="240" type="line"/>
-      <point x="200" y="280" type="line"/>
-      <point x="0" y="280" type="line"/>
-      <point x="0" y="240" type="line"/>
-      <point x="80" y="240" type="line"/>
-      <point x="80" y="40" type="line"/>
-      <point x="0" y="40" type="line"/>
-      <point x="0" y="0" type="line"/>
+      <point x="120" y="40" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="40" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-07-22 07:12:15 +0000</string>
+      <string>2020-04-07 10:39:39 +0000</string>
     </dict>
   </lib>
 </glyph>
